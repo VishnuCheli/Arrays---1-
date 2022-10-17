@@ -1,2 +1,2 @@
 # Arrays---1-
-Product of Array except Self, Diagonal traversal and Spiral matrix
+Find all numbers disappeared in an array and Game of Life
